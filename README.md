@@ -73,14 +73,6 @@
 
 ---
 
-
-## **Contact**
-For support or inquiries, please reach out via email at [Invest369.ai@gmail.com](mailto:Invest369.ai@gmail.com).
-
-
----
-
-
 ## **1. WhatsApp Bulker (Free Version)**
 
 
@@ -342,7 +334,7 @@ You can navigate to all the other static pages of the application as per your re
 2. **Data Privacy:** All the data provided is handled with care and confidentiality.
 
 ## **Support**
-For any inquiries or support, please contact us at [Invest369.ai@gmail.com](mailto:Invest369.ai@gmail.com).
+For any inquiries or support, please contact us at [abhishek2022.work@gmail.com](mailto:abhishek2022.work@gmail.com).
 
 ---
 
