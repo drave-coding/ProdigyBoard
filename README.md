@@ -334,7 +334,7 @@ You can navigate to all the other static pages of the application as per your re
 2. **Data Privacy:** All the data provided is handled with care and confidentiality.
 
 ## **Support**
-For any inquiries or support, please contact us at [abhishek2022.work@gmail.com](mailto:abhishek2022.work@gmail.com).
+For any inquiries or support, please contact at [abhishek2022.work@gmail.com](mailto:abhishek2022.work@gmail.com).
 
 ---
 
