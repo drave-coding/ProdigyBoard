@@ -1,0 +1,13 @@
+gspread==6.1.4
+gspread_dataframe==4.0.0
+pandas==2.2.3
+selenium==4.26.1
+serpapi==0.1.5
+webdriver_manager==4.0.2
+Flask==3.1.0
+flask_sock==0.7.0
+python-dotenv==1.0.1
+twilio==9.3.7
+ngrok==1.4.0
+google_api_python_client==2.154.0
+pipreqs==0.5.0

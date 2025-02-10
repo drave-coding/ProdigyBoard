@@ -1,0 +1,200 @@
+[
+    {
+        "Title": "UFO Ultimate Falafel Outlet",
+        "Rating": "4.0",
+        "Reviews": "12",
+        "Category": "Sandwich shop",
+        "Address": "Best Sky Tower, G 1, Netaji Subhash Place, Pitampura, Delhi, 110088, India",
+        "Website": "N/A",
+        "Phone Number": "91 85888 12345"
+    },
+    {
+        "Title": "Falafel express",
+        "Rating": "2.4",
+        "Reviews": "53",
+        "Category": "Restaurant",
+        "Address": "H33M+CW4, Delhi, 110037, India",
+        "Website": "N/A",
+        "Phone Number": "N/A"
+    },
+    {
+        "Title": "Pikwik (Shakti Vihar)",
+        "Rating": "4.2",
+        "Reviews": "2",
+        "Category": "North Indian restaurant",
+        "Address": "66, Rani Bagh Rd, Shakti Vihar, Pitampura, New Delhi, Delhi, 110034, India",
+        "Website": "http://www.pikwik.in/",
+        "Phone Number": "91 98100 86571"
+    },
+    {
+        "Title": "The F-Spot Shawarma & More",
+        "Rating": "4.7",
+        "Reviews": "97",
+        "Category": "Shawarma restaurant",
+        "Address": "6/19, Block 8, WEA, Karol Bagh, New Delhi, Delhi, 110005, India",
+        "Website": "https://linktr.ee/thefspot",
+        "Phone Number": "91 93541 64726"
+    },
+    {
+        "Title": "Pind Balluchi",
+        "Rating": "4.1",
+        "Reviews": "2",
+        "Category": "North Indian restaurant",
+        "Address": "10,11, Unitech, Metro Walk, FA-9, Rammurti Passi Marg, Swarn Jayanti Park, Sector 10, Rohini, New Delhi, Delhi, 110085, India",
+        "Website": "http://www.pindballuchi.com/",
+        "Phone Number": "91 11 4755 3530"
+    },
+    {
+        "Title": "BHATUREWALA",
+        "Rating": "3.9",
+        "Reviews": "16",
+        "Category": "Fast food restaurant",
+        "Address": "House No 40,landmark Near Andhra Bank Auchandi Road, Bawana Chowk, New delhi, Delhi 110039, India",
+        "Website": "N/A",
+        "Phone Number": "91 99990 21547"
+    },
+    {
+        "Title": "Shakil Tikki Wala",
+        "Rating": "4.7",
+        "Reviews": "85",
+        "Category": "Dessert shop",
+        "Address": "05, opp. Rakesh Genral Store, Budhpur, New Delhi, Delhi 110036, India",
+        "Website": "N/A",
+        "Phone Number": "91 99687 90470"
+    },
+    {
+        "Title": "The Tummy Section, Rohini, Sector-9",
+        "Rating": "4.5",
+        "Reviews": "252",
+        "Category": "Family restaurant",
+        "Address": "Bhagya Laxmi Apartment Rd, Rajapur, Razapur, Sector 9, Rohini, Delhi, 110085, India",
+        "Website": "N/A",
+        "Phone Number": "91 96546 26910"
+    },
+    {
+        "Title": "Burgrill",
+        "Rating": "4.4",
+        "Reviews": "300",
+        "Category": "Fast food restaurant",
+        "Address": "Café Coffee Day. 36 & 37, opposite CRPF Public School, Prashant Vihar, Sector 14, Rohini, New Delhi, Delhi 110085, India",
+        "Website": "https://burgrill.in/",
+        "Phone Number": "91 11 4132 9540"
+    },
+    {
+        "Title": "The Pavitra - Pure Veg Restaurant",
+        "Rating": "4.4",
+        "Reviews": "355",
+        "Category": "Vegetarian restaurant",
+        "Address": "Metro Walk Mall, GA-14, Swarn Jayanti Park, Sector 10, Rohini, Delhi, 110085, India",
+        "Website": "N/A",
+        "Phone Number": "91 87000 87329"
+    },
+    {
+        "Title": "The Big Phat Shawarma Company",
+        "Rating": "4.7",
+        "Reviews": "18",
+        "Category": "Middle Eastern restaurant",
+        "Address": "8, CH, MCD SHOP, Chaudhary Balbir Singh Marg, beside Arss Mall, CROSSING, Jwalaheri Village, Paschim Vihar, New Delhi, Delhi, 110063, India",
+        "Website": "N/A",
+        "Phone Number": "N/A"
+    },
+    {
+        "Title": "Hello china",
+        "Rating": "4.7",
+        "Reviews": "72",
+        "Category": "Restaurant",
+        "Address": "street number 6, near GURUDWARA, Guru Nanak Dev Colony, New Sarup Nagar, Bhalswa, Delhi, 110033, India",
+        "Website": "N/A",
+        "Phone Number": "N/A"
+    },
+    {
+        "Title": "Pikwik Restaurant",
+        "Rating": "4.1",
+        "Reviews": "1",
+        "Category": "North Indian restaurant",
+        "Address": "409, Ring Road Mall, Sector 3, Rohini, Delhi, 110085, India",
+        "Website": "http://www.pikwik.in/",
+        "Phone Number": "91 11 4359 0707"
+    },
+    {
+        "Title": "Faasos Rohini 2",
+        "Rating": "3.8",
+        "Reviews": "50",
+        "Category": "Fast food restaurant",
+        "Address": "Floor, Plot No. 10, Ground, B 410, Bawana Rd, Shahbad Extension, Sector 17, Rohini, New Delhi, Delhi 110089, India",
+        "Website": "https://www.eatsure.com/",
+        "Phone Number": "91 77000 20020"
+    },
+    {
+        "Title": "Layla's Shawarma and Middle Eastern Kitchen",
+        "Rating": "3.7",
+        "Reviews": "24",
+        "Category": "Restaurant",
+        "Address": "30, Ground Floor North Avenue Road ( Club Road, West, Punjabi Bagh, New Delhi, Delhi 110026, India",
+        "Website": "https://www.laylas.in/",
+        "Phone Number": "N/A"
+    },
+    {
+        "Title": "Kabsaa",
+        "Rating": "4.7",
+        "Reviews": "47",
+        "Category": "Lebanese restaurant",
+        "Address": "Shop no 14, Jail Rd, Shiv Nagar Extension, Janakpuri, New Delhi, Delhi, 110058, India",
+        "Website": "N/A",
+        "Phone Number": "91 73036 59013"
+    },
+    {
+        "Title": "My Shawarma’s",
+        "Rating": "4.4",
+        "Reviews": "40",
+        "Category": "Lebanese restaurant",
+        "Address": "J4P8+2WC, Block 4, Subhash Nagar, New Delhi, Delhi, 110027, India",
+        "Website": "N/A",
+        "Phone Number": "N/A"
+    },
+    {
+        "Title": "Lebanese Point",
+        "Rating": "4.1",
+        "Reviews": "732",
+        "Category": "Lebanese restaurant",
+        "Address": "Shop No. 7, Ground Floor, PVR Saket Building, Saket, New Delhi, Delhi 110017, India",
+        "Website": "N/A",
+        "Phone Number": "91 11 4166 4440"
+    },
+    {
+        "Title": "Metro Grill Restobar & Banquet",
+        "Rating": "4.1",
+        "Reviews": "1",
+        "Category": "Bar & grill",
+        "Address": "Fourth Floor, City Centre, Sector 10, Rohini, New Delhi, Delhi 110085, India",
+        "Website": "https://instagram.com/metrogrill_restobar_banquet",
+        "Phone Number": "91 11 4755 5333"
+    },
+    {
+        "Title": "Kamya's Kittchen",
+        "Rating": "4.7",
+        "Reviews": "231",
+        "Category": "Restaurant",
+        "Address": "Gujarat Apartments, Parwana Rd, Co-operative Group Housing Societies Pitampura, Pitampura, New Delhi, Delhi, 110034, India",
+        "Website": "N/A",
+        "Phone Number": "N/A"
+    },
+    {
+        "Title": "Falafel Express",
+        "Rating": "5.0",
+        "Reviews": "N/A",
+        "Category": "N/A",
+        "Address": "J676+72H, Rajpath Area, Central Secretariat, New Delhi, Delhi 110004, India",
+        "Website": "http://falafelexpress.co.in/about.html",
+        "Phone Number": "91 99253 59500"
+    },
+    {
+        "Title": "The Flying Falafel",
+        "Rating": "N/A",
+        "Reviews": "N/A",
+        "Category": "N/A",
+        "Address": "Number 9, Shivalik Rd, Block B, Shivalik Colony, Malviya Nagar, New Delhi, Delhi 110017, India",
+        "Website": "N/A",
+        "Phone Number": "N/A"
+    }
+]

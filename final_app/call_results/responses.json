@@ -1,0 +1,14 @@
+{
+    "response_1": {
+        "iteration": 1,
+        "user_response": "",
+        "twilio_response": "Thank you for confirming. We offer services in these three segments:",
+        "selection": "Yes"
+    },
+    "response_2": {
+        "iteration": 2,
+        "user_response": "",
+        "twilio_response": "You have selected Food.",
+        "selection": "Food"
+    }
+}
