@@ -17,8 +17,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Rule 369",
-  description: "This is a ",
+  title: "Prodigy Board",
+  description: "This is a project management tool with various smart features for marketing.",
 };
 
 export default function RootLayout({
